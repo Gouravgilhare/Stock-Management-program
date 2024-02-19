@@ -1,2 +1,2 @@
-# Stock-Management-System
+# Stock-Management-Program
 Stock (inventary) Management in C programming . 
