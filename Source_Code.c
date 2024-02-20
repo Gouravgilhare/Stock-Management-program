@@ -190,3 +190,5 @@ void deldata()
 	printf("\n\nProduct number %d is deleted!!\n\n", s);
 	screen1();
 }
+
+// Gourav
